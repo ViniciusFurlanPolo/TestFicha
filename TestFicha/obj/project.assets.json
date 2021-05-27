@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP i7\\source\\repos\\TestFicha\\TestFicha\\TestFicha.csproj",
+      "projectUniqueName": "C:\\Users\\HP i7\\Desktop\\TestFicha\\TestFicha\\TestFicha\\TestFicha.csproj",
       "projectName": "TestFicha",
-      "projectPath": "C:\\Users\\HP i7\\source\\repos\\TestFicha\\TestFicha\\TestFicha.csproj",
+      "projectPath": "C:\\Users\\HP i7\\Desktop\\TestFicha\\TestFicha\\TestFicha\\TestFicha.csproj",
       "packagesPath": "C:\\Users\\HP i7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP i7\\source\\repos\\TestFicha\\TestFicha\\obj\\",
+      "outputPath": "C:\\Users\\HP i7\\Desktop\\TestFicha\\TestFicha\\TestFicha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
